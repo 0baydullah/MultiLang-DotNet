@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="Welcome" xml:space="preserve">
+    <value>স্বাগতম</value>
+  </data>
+  <data name="Message" xml:space="preserve">
+    <value>এটি আপনার লোকালাইজড হোমপেজ।</value>
+  </data>
+</root>

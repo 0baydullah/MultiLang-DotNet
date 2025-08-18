@@ -34,7 +34,7 @@
                             var currentCulture = requestCulture?.RequestCulture.UICulture.TwoLetterISOLanguageName ?? "en";
                         }
                         <form asp-controller="Language" asp-action="SetLanguage" method="post" class="d-inline">
-                            <select name="culture" class=" btn btn-outline-light" onchange="this.form.submit()">
+                            <select name="culture" class=" btn btn-outline-dark" onchange="this.form.submit()">
                                 <option value="en" selected="@(currentCulture == "en")">English   </option>
                                 <option value="fr" selected="@(currentCulture == "fr")">French   </option>
                                 <option value="es" selected="@(currentCulture == "es")">Spanish   </option>

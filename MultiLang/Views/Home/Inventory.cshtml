@@ -1,0 +1,9 @@
+@using MultiLang.Inventory
+@inject Microsoft.Extensions.Localization.IStringLocalizer<InventoryResource> LLocalizer
+
+<h1>Inventory</h1>
+<p>@LLocalizer["Welcome to Inventory"]</p>
+
+
+<h1 class="btn btn-outline-danger">@Localizer["Save"]</h1>
+<h1 class="btn btn-outline-dark">@Localizer["Delete"]</h1>

@@ -1,0 +1,11 @@
+@using MultiLang.Crm
+@inject Microsoft.Extensions.Localization.IStringLocalizer<CrmResource> LLocalizer
+
+
+<h1>Crm</h1>
+
+<p>@LLocalizer["Welcome to CRM"]</p>
+
+
+<h1 class="btn btn-outline-danger">@Localizer["Save"]</h1>
+<h1 class="btn btn-outline-dark">@Localizer["Delete"]</h1>

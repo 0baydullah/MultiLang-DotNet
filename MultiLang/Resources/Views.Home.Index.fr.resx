@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root>
-  <data name="Welcome" xml:space="preserve">
-    <value>Bienvenue</value>
-  </data>
-  <data name="Message" xml:space="preserve">
-    <value>Ceci est votre page d'accueil localisée.</value>
-  </data>
-</root>

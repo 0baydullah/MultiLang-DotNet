@@ -1,6 +1,4 @@
-﻿namespace MultiLang
-{
+﻿namespace MultiLang.SharedResource;
     public class SharedResource
     {
     }
-}

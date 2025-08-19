@@ -117,20 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Hello" xml:space="preserve">
-    <value>Hello in default</value>
-    <comment>hello</comment>
-  </data>
-  <data name="Message" xml:space="preserve">
-    <value>Message in default</value>
-    <comment>message</comment>
-  </data>
-  <data name="Privacy" xml:space="preserve">
-    <value>Privacy in default</value>
-    <comment>privacy</comment>
-  </data>
-  <data name="PrivacyMessage" xml:space="preserve">
-    <value>Privacy Message in default</value>
-    <comment>privacy message</comment>
+  <data name="Welcome to Hr" xml:space="preserve">
+    <value>Hr-এ স্বাগতম</value>
   </data>
 </root>

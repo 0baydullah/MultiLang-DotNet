@@ -1,0 +1,9 @@
+@using MultiLang.Hr
+@inject Microsoft.Extensions.Localization.IStringLocalizer<HrResource> LLocalizer
+
+<h1>Hr</h1>
+
+<p>@LLocalizer["Welcome to Hr"]</p>
+
+<h1 class="btn btn-outline-danger">@Localizer["Save"]</h1>
+<h1 class="btn btn-outline-dark">@Localizer["Delete"]</h1>
